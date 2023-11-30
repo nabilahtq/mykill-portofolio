@@ -4,4 +4,5 @@ function helloword(){
 
 export default function(){
     helloword()
+    helloword()
 }
